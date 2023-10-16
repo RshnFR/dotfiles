@@ -1,2 +1,2 @@
-# super-duper-couscous
+# dotfiles
 personal dotfiles
